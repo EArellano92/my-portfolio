@@ -1,3 +1,8 @@
-# Edgar Arellano's serverless professional portfolio
+# Edgar Arellano's professional portfolio
 
-This is my serverless professional portfolio which utilizes AWS and NodeJS.
+This is my professional portfolio which utilizes AWS and NodeJS.
+
+## Technologies Used
+
+Git and github
+SSH
